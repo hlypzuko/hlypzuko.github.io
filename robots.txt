@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://hlypzuko.github.io/sitemap/sitemap.txt
